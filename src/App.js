@@ -1,7 +1,4 @@
-import Header from "./Compound/Header";
-import Card from "./Compound/Card";
-import TodoContainer from "./Compound/TodoContainer";
-import AddTodoForm from "./Compound/AddTodoForm"; 
+
 import { BrowserRouter,Route,Routes } from "react-router-dom";
 import Login from "./Pages/Login";
 import Signup from "./Pages/Signup";
